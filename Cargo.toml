@@ -2,6 +2,12 @@
 name = "sigpro"
 version = "0.1.0"
 edition = "2021"
+license = "MIT OR Apache-2.0"
+description = "A library and CLI for signal processing"
+homepage = "https://github.com/Krahos/sigpro"
+repository = "https://github.com/Krahos/sigpro"
+documentation = "https://github.com/Krahos/sigpro"
+readme = "README.md"
 
 [lib]
 path = "src/lib.rs"
